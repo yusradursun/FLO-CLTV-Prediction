@@ -21,3 +21,6 @@ The dataset is composed of data from customers who made their most recent purcha
 - customer_value_total_ever_offline: Total amount spent by the customer on offline purchases
 - customer_value_total_ever_online: Total amount spent by the customer on online purchases
 - interested_in_categories_12: A list of categories in which the customer has made purchases in the last 12 months.
+
+  # Note
+  This project completed as a part of Miuul Data Science & Machine Learning Bootcamp. The dataset was provided by Miuul and private.
